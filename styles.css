@@ -1,0 +1,63 @@
+body{
+    background-color: darkolivegreen
+}
+
+.container{
+    border-radius: 40px;
+    max-width: 1400px;
+    max-height: 1600px;
+    background-color: white;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.image{
+position: relative;
+left: 150px;
+}
+
+.presentation{
+    font-family:Georgia;
+    font-style: italic;
+}
+
+.backgroundcolor{
+    background-color: beige;
+}
+
+.Preparationtime{
+    color:darkgreen;
+}
+
+.listpreparationtime{
+    letter-spacing: 1px;
+}
+
+.ingredients{
+    color:darkgreen;}
+
+.ingredientslist {
+    
+    border-bottom:dotted darkgray;
+    letter-spacing: 1px;
+    font-family: Georgia;
+    font-style: italic;
+}
+
+.instructions{
+    color: darkgreen;
+}
+.instructionslist{
+    border-bottom:dotted darkgray;
+    letter-spacing: 1px;
+    font-family: Georgia;
+    font-style: italic;
+
+}
+
+.Nutrition{
+    color:darkgreen;}
+
+.table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse; }
